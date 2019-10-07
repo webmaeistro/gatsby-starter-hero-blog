@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/avatar.jpg";
+import avatar from "http://ornforlag.no/sites/default/files/2013_cover_img/logo200x200.jpg";
 
 const Author = props => {
   const { note, theme } = props;
