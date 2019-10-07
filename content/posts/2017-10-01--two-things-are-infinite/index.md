@@ -1,24 +1,49 @@
 ---
-title: Two things are infinite the universe and human stupidity
-category: "sayings"
+title: Småviltguiden - artskunnskap for jegere
+category: "jakt"
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
-author: greg lobinski
+author: Bjørn Olav Tveit
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Ørn forlag | Småviltguiden - artskunnskap for jegere
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+Hvordan skille jaktbart fra fredet vilt? Det er det viktigste en jeger må kunne. Samtidig er det kanskje også det vanskeligste, noe ikke minst erfaringer fra jegerprøvene viser. Denne boka forteller på en enkel måte hvordan du i typiske jaktsituasjoner ser forskjell på de artene du kan felle - og hvilke du må la gå. Samtidig får du mye nyttig og spennende informasjon om viltet. En god jeger kjenner sitt bytte!
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+Boka viser artene i riktige drakter i forhold til jakttidene, i like positurer så de lett kan sammenliknes, med piler til de viktigste kjennetegnene, og med symboler som viser hvilke som kan jaktes og hvilke som er fredet:
+Vadefugler 3
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+Småviltguiden er basert på den nye Jaktforskriften for 2017-2022, med nye jakttider og oppdatert med hvilke arter som ikke lenger er jaktbare - foruten en ny jaktbar art!
 
-### Cras semper consectetur elementum
+De livaktige illustrasjonene er malt av Øivind Egeland, en av Skandinavias mest begavede naturkunstnere. Bjørn Olav Tveit er blant våre ledende eksperter på artskunnskap og feltkjennetegn.
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Sammen har de laget en pedagogisk og lettfattelig guide til hvordan skille alle jaktbare arter fra sine fredete forvekslingsarter, nyttig enten du skal ut på jakt eller er på vei til å ta jegerprøven.
 
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
+Tittel: Småviltguiden - artskunnskap for jegere
+Tekst: Bjørn Olav Tveit
+Illustrasjoner: Øivind Egeland
+Format: 245 x 225 mm
+Omfang: 136 sider
+ISBN: 978-82-998062-7-5
+Pris: kr 398,-
+Utgitt: Høsten 2017
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Se det artige innslaget om Småviltguiden på TV2s God morgen, Norge!
+
+
+
+Hylles av Jegerforbundet!
+Norges Jeger- og Fiskerforbunds medlemsblad Jakt & Fiske omtaler Småviltguiden som en «særdeles grundig guide for småviltjegeren», med «detaljerte og naturtro tegninger og akvareller», der «også erfarne småviltjegere vil kunne lære noe nytt»!
+Les hele anmeldelsen på nett her!
+
+
+Se Øivind Egeland trylle fram forsideillustrasjonen!
+
+
+
+
+Øivind Egeland fra Sandnes regnes som en av Skandinavias fremste naturkunstnere.
+
+ 
+
+PayPal – en trygg og enkel betalingsmetode på nettet!
