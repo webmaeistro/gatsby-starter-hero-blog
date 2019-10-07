@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: "Ørn Forlag", // <title>
   shortSiteTitle: "Ørn Forlag", // <title> ending for posts and pages
   siteDescription: "Utgiver av bøker og innhold til mobiltelefoner og GPSer, om norsk natur og kultur.",
-  siteUrl: "ornforlag.netlify.com",
-  // pathPrefix: "",
+  siteUrl: "https://ornforlag.netlify.com/",
+   pathPrefix: "/",
   siteImage: "preview.jpg",
   siteLanguage: "nb",
 
