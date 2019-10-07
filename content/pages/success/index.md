@@ -1,6 +1,6 @@
 ---
-title: Success
+title: Suksess
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+Takk for din henvendelse. <br />
+Vi kommer tilbake til deg så snart vi bare kan.
