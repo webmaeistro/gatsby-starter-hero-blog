@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Ørn Forlag", // <title>
+  shortSiteTitle: "Ørn Forlag - Utgiver av bøker", // <title> ending for posts and pages
+  siteDescription: "Utgiver av bøker og innhold til mobiltelefoner og GPSer, om norsk natur og kultur.",
+  siteUrl: "https://ornforlag.no",
   // pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "nb",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Martin Andersen",
+  authorTwitterAccount: "webmaeistro",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Ørn Forlag",
+  headerSubTitle: "Utgiver av bøker om norsk natur og kultur",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Ørn Forlag",
+  manifestShortName: "ornforlag", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/ornforlag" },
+    { name: "twitter", url: "https://twitter.com/ornforlag" },
+    { name: "facebook", url: "http://facebook.com/ornforlag" }
   ]
 };
