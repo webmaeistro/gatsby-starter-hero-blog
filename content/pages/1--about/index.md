@@ -1,27 +1,20 @@
 ---
-title: About
+title: Om Ørn Forlag
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
 
-### Features:
+## Kontaktpersoner:
+**Bjørn Olav Tveit**, forlagssjef, tel. +47 909 60 404, bjorn[@]ornforlag.no
+**Elisabeth Anderseen**, redaktør, tel. +47 905 17 819, elisabeth.andersen[@]ornforlag.no
+**Martin Andersen**, webmaster, tel. +47 993 47 544, webmaster[@]ornforlag.no
+**Torgunn Andersen**, logistikk, tel. +47 975 96 088, torgunn.andersen[@]ornforlag.no
+**Heidi Tveit**, regnskap, tel. +47 91 18 90 16, regnskap[@]ornforlag.no ......................................................
+ 
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+Ørn forlag
+Veståsen 4
+1362 Hosle
+Norway
+
+Organisasjonsnr.: 994304399 MVA
+Kontonr.: 9235.27.10220
