@@ -4,11 +4,11 @@ title: Om Ørn Forlag
 
 
 ## Kontaktpersoner:
-**Bjørn Olav Tveit**, forlagssjef, tel. +47 909 60 404, bjorn[@]ornforlag.no
-**Elisabeth Anderseen**, redaktør, tel. +47 905 17 819, elisabeth.andersen[@]ornforlag.no
-**Martin Andersen**, webmaster, tel. +47 993 47 544, webmaster[@]ornforlag.no
-**Torgunn Andersen**, logistikk, tel. +47 975 96 088, torgunn.andersen[@]ornforlag.no
-**Heidi Tveit**, regnskap, tel. +47 91 18 90 16, regnskap[@]ornforlag.no ......................................................
+**Bjørn Olav Tveit**, forlagssjef, tel. +47 909 60 404, bjorn[@]ornforlag.no 
+**Elisabeth Anderseen**, redaktør, tel. +47 905 17 819, elisabeth.andersen[@]ornforlag.no 
+**Martin Andersen**, webmaster, tel. +47 993 47 544, webmaster[@]ornforlag.no 
+**Torgunn Andersen**, logistikk, tel. +47 975 96 088, torgunn.andersen[@]ornforlag.no 
+**Heidi Tveit**, regnskap, tel. +47 91 18 90 16, regnskap[@]ornforlag.no  
  
 
 Ørn forlag
