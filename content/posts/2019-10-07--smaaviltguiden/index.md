@@ -1,12 +1,9 @@
 ---
 title: Småviltguiden - artskunnskap for jegere
 category: "jakt"
-cover: photo-1490474418585-ba9bad8fd0ea.jpg
+cover: smaaviltguiden_omslag.jpg
 author: Bjørn Olav Tveit
 ---
-
-
-Ørn forlag | Småviltguiden - artskunnskap for jegere
 
 Hvordan skille jaktbart fra fredet vilt? Det er det viktigste en jeger må kunne. Samtidig er det kanskje også det vanskeligste, noe ikke minst erfaringer fra jegerprøvene viser. Denne boka forteller på en enkel måte hvordan du i typiske jaktsituasjoner ser forskjell på de artene du kan felle - og hvilke du må la gå. Samtidig får du mye nyttig og spennende informasjon om viltet. En god jeger kjenner sitt bytte!
 
@@ -19,14 +16,14 @@ De livaktige illustrasjonene er malt av Øivind Egeland, en av Skandinavias mest
 
 Sammen har de laget en pedagogisk og lettfattelig guide til hvordan skille alle jaktbare arter fra sine fredete forvekslingsarter, nyttig enten du skal ut på jakt eller er på vei til å ta jegerprøven.
 
-Tittel: Småviltguiden - artskunnskap for jegere
-Tekst: Bjørn Olav Tveit
-Illustrasjoner: Øivind Egeland
-Format: 245 x 225 mm
-Omfang: 136 sider
-ISBN: 978-82-998062-7-5
-Pris: kr 398,-
-Utgitt: Høsten 2017
+**Tittel:** Småviltguiden - artskunnskap for jegere  
+**Tekst:** Bjørn Olav Tveit  
+**Illustrasjoner:** Øivind Egeland  
+**Format:** 245 x 225 mm  
+**Omfang:** 136 sider  
+**ISBN:** 978-82-998062-7-5  
+**Pris:** kr 398,-  
+**Utgitt:** Høsten 2017  
 
 Se det artige innslaget om Småviltguiden på TV2s God morgen, Norge!
 
@@ -45,5 +42,3 @@ Se Øivind Egeland trylle fram forsideillustrasjonen!
 Øivind Egeland fra Sandnes regnes som en av Skandinavias fremste naturkunstnere.
 
  
-
-PayPal – en trygg og enkel betalingsmetode på nettet!
