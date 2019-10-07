@@ -31,7 +31,7 @@ const queries = [
 ];
 
 module.exports = {
-  // pathPrefix: config.pathPrefix,
+   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
@@ -43,6 +43,7 @@ module.exports = {
         : "",
       indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : ""
     },
+    
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
     }
