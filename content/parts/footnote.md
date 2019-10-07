@@ -2,9 +2,11 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* Check [Front-end web development with Greg](https://dev.greglobinski.com)
-* delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+* Ørn Forlag, Veståsen 4, 1362 Hosle, Norway
+* Tel. +47 909 60 404
+* Email: bjorn[@]ornforlag.no
+* Organisasjonsnr.: 994304399 MVA
+* Kontonr.: 9235.27.10220
+
+* bygd av [Martin Andersen](https://www.twitter.com/webmaeistro)
+* levert ay [Netlify](https://www.netlify.com/)
