@@ -4,7 +4,7 @@ category: "jakt"
 cover: smaaviltguiden_omslag.jpg
 author: Bjørn Olav Tveit
 ---
-
+![#](./smaaviltguiden_omslag.jpg)  
 Hvordan skille jaktbart fra fredet vilt? Det er det viktigste en jeger må kunne. Samtidig er det kanskje også det vanskeligste, noe ikke minst erfaringer fra jegerprøvene viser. Denne boka forteller på en enkel måte hvordan du i typiske jaktsituasjoner ser forskjell på de artene du kan felle - og hvilke du må la gå. Samtidig får du mye nyttig og spennende informasjon om viltet. En god jeger kjenner sitt bytte!
 
 Boka viser artene i riktige drakter i forhold til jakttidene, i like positurer så de lett kan sammenliknes, med piler til de viktigste kjennetegnene, og med symboler som viser hvilke som kan jaktes og hvilke som er fredet:
