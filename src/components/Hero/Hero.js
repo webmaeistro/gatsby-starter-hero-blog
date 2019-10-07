@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Velkommen til <strong>Ørn Forlag</strong> nettside
+          Velkommen til **Ørn Forlag**, sjekk ut bøkene våre :)
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
