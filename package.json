@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
-  "version": "2.0.0",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "name": "ornforlag-gatsby-website-repo",
+  "version": "2.1.0",
+  "author": "Martin Andersen <martin.andersn@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.7.0",
