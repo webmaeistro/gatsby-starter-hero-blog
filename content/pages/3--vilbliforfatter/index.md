@@ -1,6 +1,6 @@
 ---
 title: Vil du også bli forfatter?
-menuTitle: Vil du bli forfatter
+menuTitle: vilbliforfatter
 ---
 
  **Har du en bok i magen og guts til å satse?**  

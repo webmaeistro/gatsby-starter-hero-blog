@@ -3,7 +3,6 @@ title: Om Ørn Forlag
 menuTitle: Om
 ---
 
-
 ## Kontaktpersoner:
 **Bjørn Olav Tveit**, forlagssjef, tel. +47 909 60 404, bjorn[@]ornforlag.no  
 Elisabeth Anderseen, redaktør, tel. +47 905 17 819, elisabeth.andersen[@]ornforlag.no  

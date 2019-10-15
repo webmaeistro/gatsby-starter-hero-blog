@@ -1,6 +1,5 @@
 ---
 title: Guiding
-menuTitle: Guiding
 ---
 
 *[![Guiding ørn forlag](./guider.png)](./guider-stor.png)

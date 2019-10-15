@@ -1,6 +1,5 @@
 ---
 title: Presse materiale
-menuTitle: Presse
 ---
 
 **Er du journalist eller bokanmelder?** **Her kan du laste ned grafiske elementer høyoppløst:** (høyreklikk på linken og velg lagre som for å lagre bildene direkte)
