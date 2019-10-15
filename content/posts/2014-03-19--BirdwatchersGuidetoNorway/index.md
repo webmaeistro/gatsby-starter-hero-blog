@@ -1,10 +1,10 @@
 ---
 title: A Birdwatcher's Guide to Norway
-category: "birdwatching"
+category: "birds"
 cover: bwgn_320x320.png
 author: Bjørn Olav Tveit
 ---
-![Ørn forlag - A birdwatcher's guide to Norway](/bwgn_320x320.png)
+![Ørn forlag - A birdwatcher's guide to Norway](./bwgn_320x320.png)
 
 **A Birdwatcher's Guide to Norway - Where, When and How to find the Birds of Norway including Svalbard** the best-selling travellers guide for birders visiting Norway - buy it here now!
 

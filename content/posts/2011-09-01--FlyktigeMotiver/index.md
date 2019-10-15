@@ -1,10 +1,10 @@
 ---
 title: Flyktige Motiver (Utsolgt!)
-category: "fugletitting"
+category: "fugler"
 cover: Flyktige_motiver_320x320.png
-author: Christian Tiller , Terje Kolaas
+author: Christian Tiller
 ---
-![Flyktige motiver - kunsten å fotografere fugler](/flyktige_motiver_455x455.jpg)
+![Flyktige motiver - kunsten å fotografere fugler](./flyktige_motiver_455x455.jpg)
 
 **Flyktige motiver - kunsten å fotografere fugler.**  
 Her får du alle de praktiske triksene for å løfte bildene dine fra det ordinære til det spektakulære. Boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i bl.a. fra [Natur og fritid](http://www.naturogfritid.no/default.asp?VS=detalj&ID=800003)! Fugler er blant de mest krevende av alle motiver, og samtidig av de mest givende. Du kan ikke bare stole på utstyret, du må kjenne det ut og inn. Du må forstå lyset og hvordan du fanger det. Du må lese motivet og fryse øyeblikket - det rette øyeblikket. Mestrer du fuglefotografering, mestrer du det meste. Christian Tiller og Terje Kolaas har i mange år bergtatt oss med fuglebilder som går langt ut over det å avbilde fugler. De har dessuten årelang pedagogisk erfaring. I denne boka deler de uselvisk av sin kunnskap. Her får du, trinn for trinn, alle de praktiske triksene som skal til for at du skal løfte bildene dine fra det ordinære til det spektakulære.
@@ -28,10 +28,10 @@ Her får du alle de praktiske triksene for å løfte bildene dine fra det ordin�
 
 Boka er illustrert med fantastiske bilder og pedagogiske illustrasjoner.
 
-**<u>Flyktige motiver - kunsten å fotografere fugler</u>**  
+**Flyktige motiver - kunsten å fotografere fugler**  
 **Forfattere:** Christian Tiller og Terje Kolaas  
 **Utgiver:** Ørn forlag  
-**ISBN: **978-82-998062-5-1  
+**ISBN:** 978-82-998062-5-1  
 **Format:** 245 x 225 mm  
 **Omfang:** Ca. 280 s.  
 **Innbinding:** Innbundet  

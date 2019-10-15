@@ -1,10 +1,10 @@
 ---
 title: Kikk og bruk
-category: "fugletitting"
+category: "jakt"
 cover: kikk_og_bruk_320x320.jpg
-author: Bjørn Ove Høyland, Bjørn Olav Tveit
+author: Bjørn Ove Høyland
 ---
-![Ørn forlag | Kikk og bruk](/kikk_og_bruk_320x320.jpg)
+![Ørn forlag | Kikk og bruk](./kikk_og_bruk_320x320.jpg)
 
 <span style="line-height: 20.79px;">Korrekt oppførsel og antrekk er viktig i selskapslivet, men du kan også trenge veiledning når du skal ut og se på fugler! Enten du er fersk som et nylagt egg, eller du allerede er en flyvedyktig fugleentusiast, vil du ved å følge tipsene og rådene i denne boken løfte fuglegleden din til nye høyder. </span>
 
@@ -28,9 +28,7 @@ Boken forteller bl.a. hvordan du:
 
 <div>![](http://kikkogbruk.no/Kikk_og_bruk-Utstyret.jpg)</div>
 
-<div>
-
-<span style="line-height: 20.79px;">**Tittel:</span>Kikk og bruk - hvordan se på fugler**
+**Tittel:** Kikk og bruk - hvordan se på fugler
 **Forfattere:** Bjørn Ove Høyland og Bjørn Olav Tveit  
 **Pris:** 398,-  
 **Format:** 160x240 mm  
@@ -55,4 +53,3 @@ _["NOFs landsdekkende medlemsblad Vår fuglefauna nr. 4 2014:
 **Se TV-reportasje med forfatter Bjørn Olav Tveit på fugletur:**  
 ![Forfatteren på TV8!](http://kikkogbruk.no/Kikk_og_bruk_TV8Norge.jpg)](http://www.tv8norge.no/Video/22406/2014/05/07/Bjørn-Olav-Tveit-lever-for-å-se-på-fugler) **
 
-</div>

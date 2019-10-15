@@ -1,10 +1,10 @@
 ---
 title: Opplev og utforsk sommerfugler
-category: "sommerfugler"
+category: "jakt"
 cover: sommerfugler_320x320.jpg
 author: Lars-Jørgen Natvik
 ---
-![opplev og utforsk sommerfugler](/sommerfugler_320x320.jpg)
+![opplev og utforsk sommerfugler](./sommerfugler_320x320.jpg)
 
 **Vi omgir oss med sommerfugler fra tidlig vår til senhøst, både på solrike sommerenger og ved utelampen om natta. Bare i Norge finnes det 2200 arter som til sammen utgjør et fantastisk mangfold i mønster, fargeprakt og levevis.**
 
@@ -27,14 +27,14 @@ Alternativt kan du ringe eller sende sms til tlf. 911 89 016, eller send en epos
 _**<span style="font-size: 14px;"><span style="font-size:18px;">Hva mener anmelderne?</span>  
 "</span>Inspirerende bok om sommerfugler […] Den instruktive teksten er hele tiden godt illustrert med gode tegninger og bilder."<span style="font-size: 14px;"> </span>**_John-Arvid Grytnes, professor ved Institutt for biologi, Universitetet i Bergen (anmeldelse i [_Naturen_ nr. 2 2015](http://www.idunn.no/natur))
 
-[_**<span style="font-size:14px">"En grundig, god og vakker bok."</span>**_<span style="font-family:arial,helvetica,sans-serif"> <span style="font-size:14px"></span>  </span>Les hele anmeldelsen av boka i Insekt-Nytt ved å klikke her! ](/Sommerfuglbokanmeldelse_Natvik_IN_38-4_RB2013.pdf)
+[_**<span style="font-size:14px">"En grundig, god og vakker bok."</span>**_<span style="font-family:arial,helvetica,sans-serif"> <span style="font-size:14px"></span>  </span>Les hele anmeldelsen av boka i Insekt-Nytt ved å klikke her! ](./Sommerfuglbokanmeldelse_Natvik_IN_38-4_RB2013.pdf)
 
-[_**<span style="font-size:14px">"Jag rekommenderar boken varmt."</span> <span style="font-size:12px"></span> **<span style="font-size:12px"></span>_Les hele anmeldelsen av boka i Entomologisk Tidskrift ved å klikke her!](/Elmqvist_recension_av_Natvik.pdf)
+[_**<span style="font-size:14px">"Jag rekommenderar boken varmt."</span> <span style="font-size:12px"></span> **<span style="font-size:12px"></span>_Les hele anmeldelsen av boka i Entomologisk Tidskrift ved å klikke her!](./Elmqvist_recension_av_Natvik.pdf)
 
 **Lærere anbefales å lese [”Opplev vår fantastiske sommerfuglfauna – et naturfagsprosjekt”](http://www.idunn.no/ts/natur/2014/05/opplev_vaar_fantastiske_sommerfuglfauna_et_naturfagsprosje) i Naturen nr. 5 2014  
 _(Et sammendrag finnes [her](http://www.opplevsommerfugler.no/skoler/)_**_)_
 
-**Tittel: **Opplev og utforsk sommerfugler  
+**Tittel:** Opplev og utforsk sommerfugler  
 **Forfatter:** Lars-Jørgen Natvik  
 **Pris:** 398,-  
 **Format:** 160x240 mm  

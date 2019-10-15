@@ -1,6 +1,6 @@
 ---
 title: Guide til Norges fugleliv
-category: "fugletitting"
+category: "fugler"
 cover: guidetilnorges_omslag_littliten.jpg 
 author: Bjørn Olav Tveit
 ---
