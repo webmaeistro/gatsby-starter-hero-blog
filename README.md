@@ -7,7 +7,7 @@ A [GatsbyJS](https://www.gatsbyjs.org/) project. <br /><br />
 
 website repo build on gatsbyjsith netlify for Continious Deployment and
 
-The starter was initially built for Gatsby v1. Now, thanks to [@mohsenkhanpour](https://github.com/mohsenkhanpour) it's [upgraded](https://github.com/greglobinski/gatsby-starter-hero-blog/issues/32) to Gatsby v2. Thank you Mohsen :)
+The starter was initially built for Gatsby v1. Now, thanks toto Gatsby v2. 
 
 The original version of the starter is preserved as the branch `gatsby-v1`.
 
@@ -66,9 +66,6 @@ FB_APP_ID=...
 
 ### Instructions & tutorials
 
-- [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
-- [Setup Algolia account for your GatsbyJS blog](https://dev.greglobinski.com/setup-algolia-account/)
-- More articles at [Front-end web development with Greg](https://dev.greglobinski.com/)
 
 
 ## Authors
@@ -76,5 +73,6 @@ FB_APP_ID=...
 - Greg Lobinski 
 
 See also the list of [contributors](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
+
 
 
